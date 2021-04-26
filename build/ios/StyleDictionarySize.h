@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Mon, 26 Apr 2021 10:17:35 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -178,3 +178,33 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const FsBaseFontSize;
+extern float const FsBaseFontWeight;
+extern float const FsBaseLetterSpacing;
+extern float const FsBaseLineHeight;
+extern float const FsBaseParagraphIndent;
+extern float const FsBaseParagraphSpacing;
+extern float const FsLgFontNormalFontSize;
+extern float const FsLgFontNormalFontWeight;
+extern float const FsLgFontNormalLetterSpacing;
+extern float const FsLgFontNormalLineHeight;
+extern float const FsLgFontNormalParagraphIndent;
+extern float const FsLgFontNormalParagraphSpacing;
+extern float const FsLgFontSemiboldFontSize;
+extern float const FsLgFontSemiboldFontWeight;
+extern float const FsLgFontSemiboldLetterSpacing;
+extern float const FsLgFontSemiboldLineHeight;
+extern float const FsLgFontSemiboldParagraphIndent;
+extern float const FsLgFontSemiboldParagraphSpacing;
+extern float const FsXlFontSemiboldFontSize;
+extern float const FsXlFontSemiboldFontWeight;
+extern float const FsXlFontSemiboldLetterSpacing;
+extern float const FsXlFontSemiboldLineHeight;
+extern float const FsXlFontSemiboldParagraphIndent;
+extern float const FsXlFontSemiboldParagraphSpacing;
+extern float const FsXlFontNormalFontSize;
+extern float const FsXlFontNormalFontWeight;
+extern float const FsXlFontNormalLetterSpacing;
+extern float const FsXlFontNormalLineHeight;
+extern float const FsXlFontNormalParagraphIndent;
+extern float const FsXlFontNormalParagraphSpacing;

@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Mon, 26 Apr 2021 10:17:35 GMT
 //
 
 import UIKit
@@ -70,6 +70,36 @@ public enum StyleDictionarySize {
     public static let innerShadowMultiple2Radius = 3
     public static let innerShadowMultiple2Spread = 11
     public static let layerBlurRadius = 4
+    public static let fontSize = 16
+    public static let fontWeight = 400
+    public static let letterSpacing = 0
+    public static let lineHeight = 24
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontNormalFontSize = 24
+    public static let fontNormalFontWeight = 400
+    public static let fontNormalLetterSpacing = 0
+    public static let fontNormalLineHeight = 32
+    public static let fontNormalParagraphIndent = 0
+    public static let fontNormalParagraphSpacing = 0
+    public static let fontSemiboldFontSize = 24
+    public static let fontSemiboldFontWeight = 600
+    public static let fontSemiboldLetterSpacing = 0
+    public static let fontSemiboldLineHeight = 32
+    public static let fontSemiboldParagraphIndent = 0
+    public static let fontSemiboldParagraphSpacing = 0
+    public static let fontNormalFontSize = 40
+    public static let fontNormalFontWeight = 400
+    public static let fontNormalLetterSpacing = -4
+    public static let fontNormalLineHeight = 48
+    public static let fontNormalParagraphIndent = 0
+    public static let fontNormalParagraphSpacing = 0
+    public static let fontSemiboldFontSize = 40
+    public static let fontSemiboldFontWeight = 600
+    public static let fontSemiboldLetterSpacing = -2
+    public static let fontSemiboldLineHeight = 48
+    public static let fontSemiboldParagraphIndent = 0
+    public static let fontSemiboldParagraphSpacing = 0
     public static let multiple0Opacity = 1
     public static let multiple0Stops0Position = 0
     public static let multiple0Stops1Position = 1

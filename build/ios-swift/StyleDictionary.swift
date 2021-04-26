@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Mon, 26 Apr 2021 10:17:35 GMT
 //
 
 
@@ -155,6 +155,66 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let fsBaseFontFamily = Inter
+    public static let fsBaseFontSize = 16
+    public static let fsBaseFontStretch = normal
+    public static let fsBaseFontStyle = normal
+    public static let fsBaseFontStyleOld = Regular
+    public static let fsBaseFontWeight = 400
+    public static let fsBaseLetterSpacing = 0
+    public static let fsBaseLineHeight = 24
+    public static let fsBaseParagraphIndent = 0
+    public static let fsBaseParagraphSpacing = 0
+    public static let fsBaseTextCase = none
+    public static let fsBaseTextDecoration = none
+    public static let fsLgFontNormalFontFamily = Inter
+    public static let fsLgFontNormalFontSize = 24
+    public static let fsLgFontNormalFontStretch = normal
+    public static let fsLgFontNormalFontStyle = normal
+    public static let fsLgFontNormalFontStyleOld = Regular
+    public static let fsLgFontNormalFontWeight = 400
+    public static let fsLgFontNormalLetterSpacing = 0
+    public static let fsLgFontNormalLineHeight = 32
+    public static let fsLgFontNormalParagraphIndent = 0
+    public static let fsLgFontNormalParagraphSpacing = 0
+    public static let fsLgFontNormalTextCase = none
+    public static let fsLgFontNormalTextDecoration = none
+    public static let fsLgFontSemiboldFontFamily = Inter
+    public static let fsLgFontSemiboldFontSize = 24
+    public static let fsLgFontSemiboldFontStretch = normal
+    public static let fsLgFontSemiboldFontStyle = normal
+    public static let fsLgFontSemiboldFontStyleOld = Semi Bold
+    public static let fsLgFontSemiboldFontWeight = 600
+    public static let fsLgFontSemiboldLetterSpacing = 0
+    public static let fsLgFontSemiboldLineHeight = 32
+    public static let fsLgFontSemiboldParagraphIndent = 0
+    public static let fsLgFontSemiboldParagraphSpacing = 0
+    public static let fsLgFontSemiboldTextCase = none
+    public static let fsLgFontSemiboldTextDecoration = none
+    public static let fsXlFontNormalFontFamily = Inter
+    public static let fsXlFontNormalFontSize = 40
+    public static let fsXlFontNormalFontStretch = normal
+    public static let fsXlFontNormalFontStyle = normal
+    public static let fsXlFontNormalFontStyleOld = Regular
+    public static let fsXlFontNormalFontWeight = 400
+    public static let fsXlFontNormalLetterSpacing = -4
+    public static let fsXlFontNormalLineHeight = 48
+    public static let fsXlFontNormalParagraphIndent = 0
+    public static let fsXlFontNormalParagraphSpacing = 0
+    public static let fsXlFontNormalTextCase = none
+    public static let fsXlFontNormalTextDecoration = none
+    public static let fsXlFontSemiboldFontFamily = Inter
+    public static let fsXlFontSemiboldFontSize = 40
+    public static let fsXlFontSemiboldFontStretch = normal
+    public static let fsXlFontSemiboldFontStyle = normal
+    public static let fsXlFontSemiboldFontStyleOld = Semi Bold
+    public static let fsXlFontSemiboldFontWeight = 600
+    public static let fsXlFontSemiboldLetterSpacing = -2
+    public static let fsXlFontSemiboldLineHeight = 48
+    public static let fsXlFontSemiboldParagraphIndent = 0
+    public static let fsXlFontSemiboldParagraphSpacing = 0
+    public static let fsXlFontSemiboldTextCase = none
+    public static let fsXlFontSemiboldTextDecoration = none
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -189,6 +249,9 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let gray100 = rgba(243, 244, 246, 1)
+    public static let gray600 = rgba(75, 85, 99, 1)
+    public static let gray900 = rgba(17, 24, 39, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20

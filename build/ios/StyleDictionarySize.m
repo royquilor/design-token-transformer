@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Mon, 26 Apr 2021 10:17:35 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,3 +179,33 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const FsBaseFontSize = 16;
+float const FsBaseFontWeight = 400;
+float const FsBaseLetterSpacing = 0;
+float const FsBaseLineHeight = 24;
+float const FsBaseParagraphIndent = 0;
+float const FsBaseParagraphSpacing = 0;
+float const FsLgFontNormalFontSize = 24;
+float const FsLgFontNormalFontWeight = 400;
+float const FsLgFontNormalLetterSpacing = 0;
+float const FsLgFontNormalLineHeight = 32;
+float const FsLgFontNormalParagraphIndent = 0;
+float const FsLgFontNormalParagraphSpacing = 0;
+float const FsLgFontSemiboldFontSize = 24;
+float const FsLgFontSemiboldFontWeight = 600;
+float const FsLgFontSemiboldLetterSpacing = 0;
+float const FsLgFontSemiboldLineHeight = 32;
+float const FsLgFontSemiboldParagraphIndent = 0;
+float const FsLgFontSemiboldParagraphSpacing = 0;
+float const FsXlFontSemiboldFontSize = 40;
+float const FsXlFontSemiboldFontWeight = 600;
+float const FsXlFontSemiboldLetterSpacing = -2;
+float const FsXlFontSemiboldLineHeight = 48;
+float const FsXlFontSemiboldParagraphIndent = 0;
+float const FsXlFontSemiboldParagraphSpacing = 0;
+float const FsXlFontNormalFontSize = 40;
+float const FsXlFontNormalFontWeight = 400;
+float const FsXlFontNormalLetterSpacing = -4;
+float const FsXlFontNormalLineHeight = 48;
+float const FsXlFontNormalParagraphIndent = 0;
+float const FsXlFontNormalParagraphSpacing = 0;
