@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Mon, 26 Apr 2021 10:17:35 GMT
+// Generated on Tue, 27 Apr 2021 07:32:57 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -184,27 +184,27 @@ extern float const FsBaseLetterSpacing;
 extern float const FsBaseLineHeight;
 extern float const FsBaseParagraphIndent;
 extern float const FsBaseParagraphSpacing;
-extern float const FsLgFontNormalFontSize;
-extern float const FsLgFontNormalFontWeight;
-extern float const FsLgFontNormalLetterSpacing;
-extern float const FsLgFontNormalLineHeight;
-extern float const FsLgFontNormalParagraphIndent;
-extern float const FsLgFontNormalParagraphSpacing;
-extern float const FsLgFontSemiboldFontSize;
-extern float const FsLgFontSemiboldFontWeight;
-extern float const FsLgFontSemiboldLetterSpacing;
-extern float const FsLgFontSemiboldLineHeight;
-extern float const FsLgFontSemiboldParagraphIndent;
-extern float const FsLgFontSemiboldParagraphSpacing;
-extern float const FsXlFontSemiboldFontSize;
-extern float const FsXlFontSemiboldFontWeight;
-extern float const FsXlFontSemiboldLetterSpacing;
-extern float const FsXlFontSemiboldLineHeight;
-extern float const FsXlFontSemiboldParagraphIndent;
-extern float const FsXlFontSemiboldParagraphSpacing;
-extern float const FsXlFontNormalFontSize;
-extern float const FsXlFontNormalFontWeight;
-extern float const FsXlFontNormalLetterSpacing;
-extern float const FsXlFontNormalLineHeight;
-extern float const FsXlFontNormalParagraphIndent;
-extern float const FsXlFontNormalParagraphSpacing;
+extern float const FsLgNormalFontSize;
+extern float const FsLgNormalFontWeight;
+extern float const FsLgNormalLetterSpacing;
+extern float const FsLgNormalLineHeight;
+extern float const FsLgNormalParagraphIndent;
+extern float const FsLgNormalParagraphSpacing;
+extern float const FsLgSemiboldFontSize;
+extern float const FsLgSemiboldFontWeight;
+extern float const FsLgSemiboldLetterSpacing;
+extern float const FsLgSemiboldLineHeight;
+extern float const FsLgSemiboldParagraphIndent;
+extern float const FsLgSemiboldParagraphSpacing;
+extern float const FsXlNormalFontSize;
+extern float const FsXlNormalFontWeight;
+extern float const FsXlNormalLetterSpacing;
+extern float const FsXlNormalLineHeight;
+extern float const FsXlNormalParagraphIndent;
+extern float const FsXlNormalParagraphSpacing;
+extern float const FsXlFsemiboldFontSize;
+extern float const FsXlFsemiboldFontWeight;
+extern float const FsXlFsemiboldLetterSpacing;
+extern float const FsXlFsemiboldLineHeight;
+extern float const FsXlFsemiboldParagraphIndent;
+extern float const FsXlFsemiboldParagraphSpacing;

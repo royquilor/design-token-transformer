@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Mon, 26 Apr 2021 10:17:35 GMT
+// Generated on Tue, 27 Apr 2021 07:32:57 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -185,27 +185,27 @@ float const FsBaseLetterSpacing = 0;
 float const FsBaseLineHeight = 24;
 float const FsBaseParagraphIndent = 0;
 float const FsBaseParagraphSpacing = 0;
-float const FsLgFontNormalFontSize = 24;
-float const FsLgFontNormalFontWeight = 400;
-float const FsLgFontNormalLetterSpacing = 0;
-float const FsLgFontNormalLineHeight = 32;
-float const FsLgFontNormalParagraphIndent = 0;
-float const FsLgFontNormalParagraphSpacing = 0;
-float const FsLgFontSemiboldFontSize = 24;
-float const FsLgFontSemiboldFontWeight = 600;
-float const FsLgFontSemiboldLetterSpacing = 0;
-float const FsLgFontSemiboldLineHeight = 32;
-float const FsLgFontSemiboldParagraphIndent = 0;
-float const FsLgFontSemiboldParagraphSpacing = 0;
-float const FsXlFontSemiboldFontSize = 40;
-float const FsXlFontSemiboldFontWeight = 600;
-float const FsXlFontSemiboldLetterSpacing = -2;
-float const FsXlFontSemiboldLineHeight = 48;
-float const FsXlFontSemiboldParagraphIndent = 0;
-float const FsXlFontSemiboldParagraphSpacing = 0;
-float const FsXlFontNormalFontSize = 40;
-float const FsXlFontNormalFontWeight = 400;
-float const FsXlFontNormalLetterSpacing = -4;
-float const FsXlFontNormalLineHeight = 48;
-float const FsXlFontNormalParagraphIndent = 0;
-float const FsXlFontNormalParagraphSpacing = 0;
+float const FsLgNormalFontSize = 24;
+float const FsLgNormalFontWeight = 400;
+float const FsLgNormalLetterSpacing = 0;
+float const FsLgNormalLineHeight = 32;
+float const FsLgNormalParagraphIndent = 0;
+float const FsLgNormalParagraphSpacing = 0;
+float const FsLgSemiboldFontSize = 24;
+float const FsLgSemiboldFontWeight = 600;
+float const FsLgSemiboldLetterSpacing = 0;
+float const FsLgSemiboldLineHeight = 32;
+float const FsLgSemiboldParagraphIndent = 0;
+float const FsLgSemiboldParagraphSpacing = 0;
+float const FsXlNormalFontSize = 40;
+float const FsXlNormalFontWeight = 400;
+float const FsXlNormalLetterSpacing = -4;
+float const FsXlNormalLineHeight = 48;
+float const FsXlNormalParagraphIndent = 0;
+float const FsXlNormalParagraphSpacing = 0;
+float const FsXlFsemiboldFontSize = 40;
+float const FsXlFsemiboldFontWeight = 600;
+float const FsXlFsemiboldLetterSpacing = -2;
+float const FsXlFsemiboldLineHeight = 48;
+float const FsXlFsemiboldParagraphIndent = 0;
+float const FsXlFsemiboldParagraphSpacing = 0;

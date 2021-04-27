@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Mon, 26 Apr 2021 10:17:35 GMT
+// Generated on Tue, 27 Apr 2021 07:32:57 GMT
 //
 
 import UIKit
@@ -76,30 +76,30 @@ public enum StyleDictionarySize {
     public static let lineHeight = 24
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 0
-    public static let fontNormalFontSize = 24
-    public static let fontNormalFontWeight = 400
-    public static let fontNormalLetterSpacing = 0
-    public static let fontNormalLineHeight = 32
-    public static let fontNormalParagraphIndent = 0
-    public static let fontNormalParagraphSpacing = 0
-    public static let fontSemiboldFontSize = 24
-    public static let fontSemiboldFontWeight = 600
-    public static let fontSemiboldLetterSpacing = 0
-    public static let fontSemiboldLineHeight = 32
-    public static let fontSemiboldParagraphIndent = 0
-    public static let fontSemiboldParagraphSpacing = 0
-    public static let fontNormalFontSize = 40
-    public static let fontNormalFontWeight = 400
-    public static let fontNormalLetterSpacing = -4
-    public static let fontNormalLineHeight = 48
-    public static let fontNormalParagraphIndent = 0
-    public static let fontNormalParagraphSpacing = 0
-    public static let fontSemiboldFontSize = 40
-    public static let fontSemiboldFontWeight = 600
-    public static let fontSemiboldLetterSpacing = -2
-    public static let fontSemiboldLineHeight = 48
-    public static let fontSemiboldParagraphIndent = 0
-    public static let fontSemiboldParagraphSpacing = 0
+    public static let normalFontSize = 24
+    public static let normalFontWeight = 400
+    public static let normalLetterSpacing = 0
+    public static let normalLineHeight = 32
+    public static let normalParagraphIndent = 0
+    public static let normalParagraphSpacing = 0
+    public static let semiboldFontSize = 24
+    public static let semiboldFontWeight = 600
+    public static let semiboldLetterSpacing = 0
+    public static let semiboldLineHeight = 32
+    public static let semiboldParagraphIndent = 0
+    public static let semiboldParagraphSpacing = 0
+    public static let fsemiboldFontSize = 40
+    public static let fsemiboldFontWeight = 600
+    public static let fsemiboldLetterSpacing = -2
+    public static let fsemiboldLineHeight = 48
+    public static let fsemiboldParagraphIndent = 0
+    public static let fsemiboldParagraphSpacing = 0
+    public static let normalFontSize = 40
+    public static let normalFontWeight = 400
+    public static let normalLetterSpacing = -4
+    public static let normalLineHeight = 48
+    public static let normalParagraphIndent = 0
+    public static let normalParagraphSpacing = 0
     public static let multiple0Opacity = 1
     public static let multiple0Stops0Position = 0
     public static let multiple0Stops1Position = 1
